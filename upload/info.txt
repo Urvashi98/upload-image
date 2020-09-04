@@ -1,0 +1,2 @@
+this is the upload directory.
+Images will be uploaded here.
